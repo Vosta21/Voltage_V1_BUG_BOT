@@ -24,7 +24,7 @@ global.wm = "VOLTAGE TECH."
 global.link = 'https://whatsapp.com/channel/0029ValURVD30LKUWiRSlC47'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
@@ -33,7 +33,7 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
